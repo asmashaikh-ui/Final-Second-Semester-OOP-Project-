@@ -11,11 +11,12 @@ This project is console based application and all records are stored in database
 
 ---
 
-# Student Details
+# Group Members' Details
 
 | Name                   | CMS ID      | Section |
 | ---------------------- | ----------- | ------- |
 | Asma Riaz Shaikh       | 023-25-0022 | BSCS-E  |
+| Nauman Ali Soomro      | 023-25-0086 | BSCS-E  |
 ---
 
 # Purpose of Project
@@ -211,7 +212,7 @@ fixed/
 
 # GitHub Repository Link
 
-(https://github.com/asmashaikh-ui/Final-Second-Semester-OOP-Project-)
+Link to repo- https://github.com/asmashaikh-ui/Final-Second-Semester-OOP-Project-
 
 ---
 
@@ -223,4 +224,4 @@ PASTE YOUR YOUTUBE VIDEO LINK HERE
 
 # Conclusion
 
-This project was really good learning experience for me. I learned how real Java applications are structured using OOP concepts and database connectivity. I also learned project management during this semester project.
+This project was really good learning experience for us. We learned how real Java applications are structured using OOP concepts and database connectivity. We also learned project management during this semester project.
