@@ -180,7 +180,7 @@ Import this file in MySQL before running the project.
 # Folder Structure
 
 ```text
-fixed/
+Project/
  ├── model/
  │     ├── Admin.java
  │     ├── Customer.java
