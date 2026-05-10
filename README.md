@@ -218,7 +218,7 @@ Link to repo- https://github.com/asmashaikh-ui/Final-Second-Semester-OOP-Project
 
 # Project Demo Video
 
-PASTE YOUR YOUTUBE VIDEO LINK HERE
+Link to video Google Drive- https://drive.google.com/file/d/1W_j3ltHqxI54oNH00ga0cxRYGOeqY126/view?usp=sharing
 
 ---
 
